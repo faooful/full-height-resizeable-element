@@ -3,3 +3,5 @@
 2. Add in the name of the div that you wish to be the height of the browser window.
 
 3. Boom.
+
+NB. The -40 is only included as an example to compensate for a fixed header that is 40 pixels high. If you don't have a header or your header is bigger than 40 pixels, remove this.
